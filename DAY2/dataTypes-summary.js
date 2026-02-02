@@ -38,3 +38,29 @@ console.log(typeof id);
 
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+// ++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive), Heap (Non-Primitive)
+
+let myName = "Abhishek"
+
+let anotherName = "Abhi"
+anotherName = "Ashu"
+
+console.log(anotherName);
+console.log(myName);
+
+let user1 = {
+    email: "user@gmail.com",
+    upi: "user@ybl"
+}
+
+let user2 = user1
+
+user2.email = "ab@gmail.com"
+
+console.log(user1.email);
+console.log(user2.email);
+
