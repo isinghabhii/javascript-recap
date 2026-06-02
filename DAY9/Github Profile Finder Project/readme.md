@@ -40,7 +40,9 @@ A simple and responsive web application that allows users to search for GitHub p
 
 ## Screenshot
 
-![GitHub Profile Finder](image.png)
+![GitHub Profile Finder](_img.png)
+![GitHub Profile Finder](_img2.png)
+![GitHub Profile Finder](_img3.png)
 
 ## API Used
 
