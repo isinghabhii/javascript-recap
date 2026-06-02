@@ -38,6 +38,10 @@ A simple and responsive web application that allows users to search for GitHub p
 └── GithubProfileFinder.js
 ```
 
+## Screenshot
+
+![GitHub Profile Finder](image.png)
+
 ## API Used
 
 GitHub Users API:
